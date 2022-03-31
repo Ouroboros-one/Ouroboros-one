@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Hello everyone! My name is Jai Deshmukh and I am a second-year student at Virginia Tech. At VT, I am majoring in Software Systems and minoring in Astronomy, as I enjoy the seeing the possibilites of humans in space and on other worlds, as well enjoying the thrill of exploration overall.
 
 I currently work as an intern through MITRE and VT, in which I am currently working on moving object detection and containment. 
@@ -11,4 +11,4 @@ My hobbies include camping, hiking, and making projects I'm enthusiastic about. 
 
 - Jai
 
---!>
+
